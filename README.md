@@ -1,10 +1,10 @@
-# Project 1 - *Name of App Here*
+# Project 1 - Wordle
 
-Submitted by: **Your Name Here**
+Submitted by: Lana Do
 
-**Name of your app** is an app that ... [TODO] 
+Wordle is an app where user can play a basic version of Wordle where users have six attempts to guess a five-letter word, with feedback given for each guess in the form of colored tiles indicating when letters match or occupy the correct position
 
-Time spent: **X** hours spent in total
+Time spent: 4 hours spent in total
 
 ## Required Features
 
